@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "javascript",
+        "removeComments": false,
+        
+    },
+    "include": [
+           
+    ]
+}
